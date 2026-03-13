@@ -1,1 +1,1 @@
-# Bash-Scripts
+# List of projects
